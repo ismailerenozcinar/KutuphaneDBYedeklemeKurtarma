@@ -1,0 +1,18 @@
+# Yedek dosyaları (büyük olduğu için repoya atılmaz)
+backups/*.bak
+backups/*.trn
+backups/*.diff
+
+# SSMS / SQL Server geçici dosyalar
+*.ldf
+*.mdf
+*.ndf
+
+# Editör / OS
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
